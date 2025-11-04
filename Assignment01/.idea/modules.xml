@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assignment1.iml" filepath="$PROJECT_DIR$/.idea/Assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DescendingStack/DescendingStack.iml" filepath="$PROJECT_DIR$/DescendingStack/DescendingStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearQueue/LinearQueue.iml" filepath="$PROJECT_DIR$/LinearQueue/LinearQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackIntegerArrayReverse/StackIntegerArrayReverse.iml" filepath="$PROJECT_DIR$/StackIntegerArrayReverse/StackIntegerArrayReverse.iml" />
+    </modules>
+  </component>
+</project>
